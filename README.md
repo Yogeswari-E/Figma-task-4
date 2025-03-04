@@ -1,3 +1,3 @@
 # figma-task-4
-Login pages to desgin a using 
+Pages to desgin a using 
 figma
